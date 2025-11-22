@@ -27,9 +27,6 @@ Prever o preço médio de pedidos utilizando:
 │   ├── processed/                      # Dados processados
 │   │   └── orders_with_features.csv    # Com feature engineering
 │   └── generate_data.py                # Gerador de dados sintéticos
-├── notebooks/
-│   ├── 01_eda.ipynb                    # Análise exploratória completa
-│   └── 02_modeling.ipynb               # Experimentação e modelagem
 ├── src/
 │   ├── __init__.py                     # Módulo Python
 │   ├── features.py                     # Feature engineering avançado
@@ -46,8 +43,6 @@ Prever o preço médio de pedidos utilizando:
 ├── tests.py                            # Testes automatizados
 ├── requirements.txt                    # Dependências
 ├── README.md                           # Este arquivo
-├── GUIA_EXECUCAO.md                   # Guia passo a passo
-└── DOCUMENTACAO_TECNICA.md            # Documentação completa
 ```
 
 ## Como Usar
@@ -148,3 +143,4 @@ Desenvolvido para demonstração de Machine Learning aplicado a e-commerce
 
 ## Licença
 MIT
+
