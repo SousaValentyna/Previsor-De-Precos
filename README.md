@@ -138,9 +138,3 @@ Testa:
 - Métricas
 - Batch processing
 
-## Autor
-Desenvolvido para demonstração de Machine Learning aplicado a e-commerce
-
-## Licença
-MIT
-
